@@ -1,1 +1,1 @@
-# ThomasBird.githup.io
+# ThomasBird.github.io
